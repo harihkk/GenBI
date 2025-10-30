@@ -1,0 +1,12 @@
+.env
+__pycache__/
+**/__pycache__/
+.venv/
+venv/
+cache/
+*.db
+*.db.wal
+pandasai.log
+firebase_credentials.json
+.DS_Store
+.vscode/
